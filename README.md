@@ -61,3 +61,7 @@ Instead, it will copy all the configuration files and the transitive dependencie
 You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+![calculator1](https://github.com/andremude/react-calculator/assets/71613801/f8230785-a4ef-4b99-9a0a-b81d214d2ec8)
+![calculator2](https://github.com/andremude/react-calculator/assets/71613801/35bee4cd-5f94-4667-b881-1addafce08fa)
+
